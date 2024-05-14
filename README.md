@@ -1,16 +1,17 @@
-### Hi there 👋
+### Bem vindos ao meu perfil 💗
 
-<!--
-**nicollifonseca/nicollifonseca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Nicolli Valentim
 
-Here are some ideas to get you started:
+-Estou estudando na [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem JavaScript
+
+-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+
+### Você pode entrar em contato comigo 📫
+
+valentimnicolli2@gmail.com
+
+@nicollifonseca7
+
+![](https://gifs.eco.br/wp-content/uploads/2021/06/mais-de-60-gifs-de-bom-dia-para-whatsapp-e-facebook-2.gif)
